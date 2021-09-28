@@ -72,4 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/DS5W_UE4/Binaries/Win64/UE4Editor.modules
+/DS5W_UE4/Binaries/*
+/DS5W_UE4/Intermediate/*
