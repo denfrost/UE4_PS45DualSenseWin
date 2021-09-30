@@ -1,3 +1,6 @@
+#Updates by Denis Balikhin
+ UE4 Port always hard referencing on USB communication version so everytime need updated from OS changes WindowsKit. HID library
+
 # UE4 Port of DualSense on Windows [Ohjurot/DualSense-Windows](https://github.com/Ohjurot/DualSense-Windows)
 ![](https://raw.githubusercontent.com/Ohjurot/DualSense-Windows/main/Doc/GitHub_readme/header.png)
 
